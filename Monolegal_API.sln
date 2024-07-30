@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monolegal_API", "Monolegal_API\Monolegal_API.csproj", "{CDA99881-F772-44E3-8A6A-F76369BCCC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA99881-F772-44E3-8A6A-F76369BCCC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA99881-F772-44E3-8A6A-F76369BCCC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA99881-F772-44E3-8A6A-F76369BCCC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA99881-F772-44E3-8A6A-F76369BCCC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28003311-B7DF-48C7-AD62-A77680D06BB2}
+	EndGlobalSection
+EndGlobal
